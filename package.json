@@ -2,7 +2,7 @@
   "name": "quill-image-resize-interact",
   "version": "1.0.0",
   "description": "A Quill module for resizing inline images, powered by Interact.js",
-  "main": "quill-image-resize-interact.min.js",
+  "main": "quill-image-resize-interact.js",
   "repository": "https://github.com/mattrothenberg/quill-image-resize-interact",
   "author": "Matt Rothenberg",
   "license": "MIT",
