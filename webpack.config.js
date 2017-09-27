@@ -4,7 +4,8 @@ module.exports = {
   entry: './index.js',
   output: {
     filename: 'quill-image-resize-interact.js',
-    path: path.resolve('.')
+    path: path.resolve('.'),
+    libraryTarget: 'umd'
   },
   module: {
     rules: [
